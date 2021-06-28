@@ -1,5 +1,5 @@
 # awesome-WM
-WIP
+WIP - all credits to JavaCafe01! I'm simply tweaking and redesigning aspects.
 
 Since Wayland is not fully supported by some necessary porgrams, such as Zoom, RStudio & MatLab.
 I am in the process of creating an alternative to my sway-WM to use those programs with xorg.
